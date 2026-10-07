@@ -137,4 +137,4 @@ For the most reliable alarms, test on a physical device and exclude the app from
 
 ## License
 
-Add a `LICENSE` file (for example MIT) and reference it here.
+This project is licensed under the [MIT License](LICENSE).
